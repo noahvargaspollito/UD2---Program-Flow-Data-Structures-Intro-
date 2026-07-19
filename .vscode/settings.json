@@ -1,0 +1,8 @@
+{
+  "java.server.launchMode": "Standard",
+  "java.compile.nullAnalysis.mode": "disabled",
+  "redhat.telemetry.enabled": false,
+  "java.project.referencedLibraries": [
+    "checkstyle-10.17.0-all.jar",
+  ]
+}
