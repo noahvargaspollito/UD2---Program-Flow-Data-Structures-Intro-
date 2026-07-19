@@ -147,7 +147,7 @@ public class Main {
   }
 
   /*
-   * Prints the scientific names of the 4 giraffe species.
+
    * Katelyn Ho's method(s)
    */
   public static void scientificNames() {
